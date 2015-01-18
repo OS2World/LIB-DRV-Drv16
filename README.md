@@ -12,6 +12,7 @@ COMPILE TOOLS
 AUTHORS
 ===============
 * David Azarewizcw
+* nickk
 
 LINKS
 ===============
